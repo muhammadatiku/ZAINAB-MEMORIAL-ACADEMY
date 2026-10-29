@@ -1,0 +1,6 @@
+Environment variables (type these in Render, not in a file):
+BREVO_API_KEY   = your Brevo API key
+MAIL_FROM       = the sender email you verified in Brevo
+UPSTASH_REDIS_REST_URL   = from Upstash
+UPSTASH_REDIS_REST_TOKEN = from Upstash
+TZ              = Africa/Lagos
